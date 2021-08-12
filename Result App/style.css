@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+    text-align: center
+}
+button{
+    color: black;
+    box-shadow: rgb(114, 29, 29) 2px 2px 2px;
+}
+.head{
+    color:rgb(32, 32, 32);;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline black;
+}
+h1,h2{
+    color: rgb(32, 32, 32);;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
